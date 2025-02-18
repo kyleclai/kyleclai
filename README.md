@@ -25,16 +25,16 @@ if __name__ == "__main__":
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/kyle-c-lai/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Samin Mahdipour's LinkedIn Profile" height="30" width="30" style="display:block">
+  <a href="https://www.linkedin.com/in/kyle-c-lai/" style="text-decoration:none">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Kyle Lai's LinkedIn Profile" height="30" width="30" style="display:block">
   </a>
 	
-  <a href="mailto: kcklaius@gmail.com">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Kyle Lai's Gmail" height="30" width="30" style="display:block">
+  <a href="mailto: kcklaius@gmail.com" style="text-decoration:none">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Kyle Lai's Gmail" height="30" width="30" style="display:block">
   </a> 
 
-  <a href="https://hub.docker.com/u/kyleclai">
-     <img src="https://simpleicons.org/icons/docker.svg" alt="Kyle Lai's dockerhub Profile" height="35" width="35" style="display:block">
+  <a href="https://hub.docker.com/u/kyleclai" style="text-decoration:none">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="Kyle Lai's dockerhub Profile" height="35" width="35" style="display:block">
   </a>
 
 </p>
