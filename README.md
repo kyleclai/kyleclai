@@ -24,10 +24,10 @@ if __name__ == "__main__":
 <h2 align="center">You can reach me at </h2>
 
 <p align="center" style="border-bottom: none; box-shadow: none;">
-	<a href="https://www.linkedin.com/in/kyle-c-lai/" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+	<a href="https://www.linkedin.com/in/kylekhailai/" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Kyle Lai's LinkedIn Profile" 
 			height="30" width="30" style="display:inline-block; border: none; border-bottom: none; vertical-align: middle; box-shadow: none;"></a>
-	<a href="mailto:kcklaius@gmail.com" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
+	<a href="mailto:kyle.khai.lai@gmail.com" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Kyle Lai's Gmail" 
 			height="30" width="30" style="display:inline-block; border: none; border-bottom: none; vertical-align: middle; box-shadow: none;"></a>
 	<a href="https://hub.docker.com/u/kyleclai" style="text-decoration: none; outline: none; border: none; box-shadow: none;">
