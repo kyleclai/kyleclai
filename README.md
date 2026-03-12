@@ -4,8 +4,8 @@
 class Bio:
     def __init__(self):
         self.data = {
-            "- 🌱 I’m currently learning":    "Generative AI, Machine Learning, and Neuro-inspired AI",
-            "- ❔ I’m looking for help with": "Exploring innovative uses of ML in bioinformatics and AI",
+            "- 🌱 I’m currently learning":    "Data Engineering, Machine Learning, and Neuro-inspired AI",
+            "- ❔ I’m looking for help with": "Exploring innovative uses of DE and ML in health systems",
             "- 📚 I'm interested in":         "AI, Bioinformatics (Network Motifs), Radiogenomics, "
                                               "Interpretable Models (XAI), Generative Models, "
                                               "Decentralized Learning, Mathematics!"
